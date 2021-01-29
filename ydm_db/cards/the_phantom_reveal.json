@@ -1,0 +1,12 @@
+{
+  "id": 12,
+  "name": "The Phantom Reveal",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Special Summon a 'The Phantom' monster from your Deck. You must control a 'The Phantom' monster to resolve this effect.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": ""
+}

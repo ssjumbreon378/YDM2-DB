@@ -1,0 +1,21 @@
+{
+  "id": 20,
+  "name": "The Phantom N05: Fox",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "'The Phantom Artist, Yusuke' + 1+ Level 4 Monsters. This card cannot be destroyed by effects from a WATER monster. This card cannot be destroyed in battle by a WATER monster.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2300,
+  "species": "Warrior",
+  "monster_type": "XYZ",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
+}

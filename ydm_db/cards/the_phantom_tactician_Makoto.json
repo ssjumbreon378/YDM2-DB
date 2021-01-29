@@ -1,0 +1,21 @@
+{
+  "id": 6,
+  "name": "The Phantom Tactician, Makoto",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "During your opponent's Standby Phase, destroy this card and special summon one 'The Phantom N06: Queen' from your Extra Deck. If this card and 'The Phantom N06: Queen' are in the GY, banish this card and return one 'The Phantom N' card to the Extra Deck.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1900,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 300,
+  "level": 4,
+  "is_tuner": false
+}

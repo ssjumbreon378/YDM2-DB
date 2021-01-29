@@ -1,0 +1,12 @@
+{
+  "id": 11,
+  "name": "The Phantom Flag",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "This card can only be equipped to a 'The Phantom' card. For each 'The Phantom Flag' you control, you can Normal Summon one more time per turn.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Equip"
+}

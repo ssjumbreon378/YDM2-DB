@@ -1,0 +1,21 @@
+{
+  "id": 22,
+  "name": "The Phantom N07: Oracle",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "'The Phantom Hacker, Futaba' + 1+ Level 4 Monsters. All 'The Phantom' Monsters gain 500 ATK while this card is on the field.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2300,
+  "species": "Warrior",
+  "monster_type": "XYZ",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
+}

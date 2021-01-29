@@ -1,0 +1,21 @@
+{
+  "id": 26,
+  "name": "The Phantom C01: Arsene",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "This card can be XYZ Summoned by using 'The Phantom N01: Joker' as the only material. This card cannot be destroyed by effects from a DARK monster. This card cannot be destroyed in battle by a DARK monster.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3000,
+  "species": "Warrior",
+  "monster_type": "XYZ",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2500,
+  "level": 4,
+  "is_tuner": false
+}

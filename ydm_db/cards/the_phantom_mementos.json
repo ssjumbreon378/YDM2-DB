@@ -1,0 +1,12 @@
+{
+  "id": 15,
+  "name": "The Phantom Mementos",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "All 'The Phantom' monsters gain 1200 ATK for each monster you control.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

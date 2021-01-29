@@ -1,0 +1,12 @@
+{
+  "id": 13,
+  "name": "The Phantom Awakening",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Banish a 'Phantom' Monster from your GY and XYZ summon the monster it would summon through it's effect.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 14,
+  "name": "The Phantom Hideout",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "All 'The Phantom' monsters gain 500 ATK for each monster you control. If this card is destroyed or banished, activate 'The Phantom Mementos' from your hand, deck or GY.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}
